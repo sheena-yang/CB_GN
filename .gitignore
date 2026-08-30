@@ -1,0 +1,9 @@
+results/
+data/
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
+__pycache__/
+*.pyc
+.DS_Store
