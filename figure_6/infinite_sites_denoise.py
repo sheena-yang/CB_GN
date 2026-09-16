@@ -4,6 +4,10 @@
 Rows are mutation sites and columns are cells.  The algorithm follows a
 frequency-ordered, error-tolerant mutation-tree heuristic and writes a complete
 audit trail for every iteration and every corrected matrix entry.
+
+Usage: python3 infinite_sites_denoise.py demo/example.genotype.matrix.csv
+Expected output: demo/denoised_matrix.csv
+Expected run time: approximately a few minutes on a standard desktop computer
 """
 
 from __future__ import annotations
