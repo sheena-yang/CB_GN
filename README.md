@@ -48,10 +48,11 @@ CB_GN/
 
 ## Requirements
 
-R: Seurat, harmony, scDblFinder, SingleR, MutationalPatterns, lme4, lmerTest,
-emmeans, ComplexHeatmap, randomForest, fastshap, shapviz, goseq, clusterProfiler,
-ggplot2, dplyr, tidyr, data.table
+R: v4.4.3, Seurat (v4.3.0), scDblFinder (v1.16.0), Harmony (v1.2.3),
+scan2 (v1.0), MutationalPatterns (v3.14.0), pracma (v2.4.4), GOseq (v1.54.0),
+lme4 (v1.1.36), lmerTest (v3.1.3), emmeans (v2.0.0), MosaicHunter (v0.1.4),
+and rtreefit (v1.2.0)
 
-Python: numpy, pandas, matplotlib, seaborn
+Python: v3.12.7, NumPy (v1.26.4), pandas (v2.2.2), and Matplotlib (v3.9.2)
 
 Command line: ANNOVAR, snpEff
