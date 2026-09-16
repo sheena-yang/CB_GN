@@ -48,6 +48,8 @@ CB_GN/
 
 ## Requirements
 
+Operating system: Linux; tested on Rocky Linux 9.8 (Blue Onyx), x86_64
+
 R: v4.4.3, Seurat (v4.3.0), scDblFinder (v1.16.0), Harmony (v1.2.3),
 scan2 (v1.0), MutationalPatterns (v3.14.0), pracma (v2.4.4), GOseq (v1.54.0),
 lme4 (v1.1.36), lmerTest (v3.1.3), emmeans (v2.0.0), MosaicHunter (v0.1.4),
