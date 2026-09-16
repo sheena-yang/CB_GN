@@ -54,5 +54,3 @@ lme4 (v1.1.36), lmerTest (v3.1.3), emmeans (v2.0.0), MosaicHunter (v0.1.4),
 and rtreefit (v1.2.0)
 
 Python: v3.12.7, NumPy (v1.26.4), pandas (v2.2.2), and Matplotlib (v3.9.2)
-
-Command line: ANNOVAR, snpEff
